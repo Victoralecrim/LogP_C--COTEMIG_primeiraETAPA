@@ -1,0 +1,11 @@
+H:\LogP\PrimeiraEtapa\Ex05_pag08\Ex05_pag08\bin\Debug\Ex05_pag08.exe.config
+H:\LogP\PrimeiraEtapa\Ex05_pag08\Ex05_pag08\bin\Debug\Ex05_pag08.exe
+H:\LogP\PrimeiraEtapa\Ex05_pag08\Ex05_pag08\bin\Debug\Ex05_pag08.pdb
+H:\LogP\PrimeiraEtapa\Ex05_pag08\Ex05_pag08\obj\Debug\Ex05_pag08.csproj.AssemblyReference.cache
+H:\LogP\PrimeiraEtapa\Ex05_pag08\Ex05_pag08\obj\Debug\Ex05_pag08.csproj.SuggestedBindingRedirects.cache
+H:\LogP\PrimeiraEtapa\Ex05_pag08\Ex05_pag08\obj\Debug\Ex05_pag08.Form1.resources
+H:\LogP\PrimeiraEtapa\Ex05_pag08\Ex05_pag08\obj\Debug\Ex05_pag08.Properties.Resources.resources
+H:\LogP\PrimeiraEtapa\Ex05_pag08\Ex05_pag08\obj\Debug\Ex05_pag08.csproj.GenerateResource.cache
+H:\LogP\PrimeiraEtapa\Ex05_pag08\Ex05_pag08\obj\Debug\Ex05_pag08.csproj.CoreCompileInputs.cache
+H:\LogP\PrimeiraEtapa\Ex05_pag08\Ex05_pag08\obj\Debug\Ex05_pag08.exe
+H:\LogP\PrimeiraEtapa\Ex05_pag08\Ex05_pag08\obj\Debug\Ex05_pag08.pdb

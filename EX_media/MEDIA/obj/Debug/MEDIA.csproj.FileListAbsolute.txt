@@ -1,0 +1,11 @@
+H:\Visual Studio 2022\Projects\MEDIA\MEDIA\bin\Debug\MEDIA.exe.config
+H:\Visual Studio 2022\Projects\MEDIA\MEDIA\bin\Debug\MEDIA.exe
+H:\Visual Studio 2022\Projects\MEDIA\MEDIA\bin\Debug\MEDIA.pdb
+H:\Visual Studio 2022\Projects\MEDIA\MEDIA\obj\Debug\MEDIA.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\MEDIA\MEDIA\obj\Debug\MEDIA.csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio 2022\Projects\MEDIA\MEDIA\obj\Debug\MEDIA.Form1.resources
+H:\Visual Studio 2022\Projects\MEDIA\MEDIA\obj\Debug\MEDIA.Properties.Resources.resources
+H:\Visual Studio 2022\Projects\MEDIA\MEDIA\obj\Debug\MEDIA.csproj.GenerateResource.cache
+H:\Visual Studio 2022\Projects\MEDIA\MEDIA\obj\Debug\MEDIA.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\MEDIA\MEDIA\obj\Debug\MEDIA.exe
+H:\Visual Studio 2022\Projects\MEDIA\MEDIA\obj\Debug\MEDIA.pdb

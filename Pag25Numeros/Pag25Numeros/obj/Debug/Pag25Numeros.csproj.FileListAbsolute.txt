@@ -1,0 +1,10 @@
+H:\LogP\PrimeiraEtapa\Pag25Numeros\Pag25Numeros\obj\Debug\Pag25Numeros.csproj.SuggestedBindingRedirects.cache
+H:\LogP\PrimeiraEtapa\Pag25Numeros\Pag25Numeros\obj\Debug\Pag25Numeros.Form1.resources
+H:\LogP\PrimeiraEtapa\Pag25Numeros\Pag25Numeros\obj\Debug\Pag25Numeros.Properties.Resources.resources
+H:\LogP\PrimeiraEtapa\Pag25Numeros\Pag25Numeros\obj\Debug\Pag25Numeros.csproj.GenerateResource.cache
+H:\LogP\PrimeiraEtapa\Pag25Numeros\Pag25Numeros\obj\Debug\Pag25Numeros.csproj.CoreCompileInputs.cache
+H:\LogP\PrimeiraEtapa\Pag25Numeros\Pag25Numeros\bin\Debug\Pag25Numeros.exe.config
+H:\LogP\PrimeiraEtapa\Pag25Numeros\Pag25Numeros\bin\Debug\Pag25Numeros.exe
+H:\LogP\PrimeiraEtapa\Pag25Numeros\Pag25Numeros\bin\Debug\Pag25Numeros.pdb
+H:\LogP\PrimeiraEtapa\Pag25Numeros\Pag25Numeros\obj\Debug\Pag25Numeros.exe
+H:\LogP\PrimeiraEtapa\Pag25Numeros\Pag25Numeros\obj\Debug\Pag25Numeros.pdb

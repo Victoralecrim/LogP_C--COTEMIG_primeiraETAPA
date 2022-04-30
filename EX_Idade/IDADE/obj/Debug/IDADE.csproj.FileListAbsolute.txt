@@ -1,0 +1,10 @@
+H:\Visual Studio 2022\Projects\IDADE\IDADE\bin\Debug\IDADE.exe.config
+H:\Visual Studio 2022\Projects\IDADE\IDADE\bin\Debug\IDADE.exe
+H:\Visual Studio 2022\Projects\IDADE\IDADE\bin\Debug\IDADE.pdb
+H:\Visual Studio 2022\Projects\IDADE\IDADE\obj\Debug\IDADE.csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio 2022\Projects\IDADE\IDADE\obj\Debug\IDADE.Form1.resources
+H:\Visual Studio 2022\Projects\IDADE\IDADE\obj\Debug\IDADE.Properties.Resources.resources
+H:\Visual Studio 2022\Projects\IDADE\IDADE\obj\Debug\IDADE.csproj.GenerateResource.cache
+H:\Visual Studio 2022\Projects\IDADE\IDADE\obj\Debug\IDADE.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\IDADE\IDADE\obj\Debug\IDADE.exe
+H:\Visual Studio 2022\Projects\IDADE\IDADE\obj\Debug\IDADE.pdb

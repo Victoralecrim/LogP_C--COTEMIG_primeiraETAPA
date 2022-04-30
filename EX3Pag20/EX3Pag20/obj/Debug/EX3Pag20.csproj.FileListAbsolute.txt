@@ -1,0 +1,11 @@
+H:\LogP\PrimeiraEtapa\EX3Pag20\EX3Pag20\bin\Debug\EX3Pag20.exe.config
+H:\LogP\PrimeiraEtapa\EX3Pag20\EX3Pag20\bin\Debug\EX3Pag20.exe
+H:\LogP\PrimeiraEtapa\EX3Pag20\EX3Pag20\bin\Debug\EX3Pag20.pdb
+H:\LogP\PrimeiraEtapa\EX3Pag20\EX3Pag20\obj\Debug\EX3Pag20.csproj.AssemblyReference.cache
+H:\LogP\PrimeiraEtapa\EX3Pag20\EX3Pag20\obj\Debug\EX3Pag20.csproj.SuggestedBindingRedirects.cache
+H:\LogP\PrimeiraEtapa\EX3Pag20\EX3Pag20\obj\Debug\EX3Pag20.Form1.resources
+H:\LogP\PrimeiraEtapa\EX3Pag20\EX3Pag20\obj\Debug\EX3Pag20.Properties.Resources.resources
+H:\LogP\PrimeiraEtapa\EX3Pag20\EX3Pag20\obj\Debug\EX3Pag20.csproj.GenerateResource.cache
+H:\LogP\PrimeiraEtapa\EX3Pag20\EX3Pag20\obj\Debug\EX3Pag20.csproj.CoreCompileInputs.cache
+H:\LogP\PrimeiraEtapa\EX3Pag20\EX3Pag20\obj\Debug\EX3Pag20.exe
+H:\LogP\PrimeiraEtapa\EX3Pag20\EX3Pag20\obj\Debug\EX3Pag20.pdb

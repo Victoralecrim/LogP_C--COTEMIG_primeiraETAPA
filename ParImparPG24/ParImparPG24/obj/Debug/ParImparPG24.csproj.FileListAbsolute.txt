@@ -1,0 +1,11 @@
+H:\LogP\PrimeiraEtapa\ParImparPG24\ParImparPG24\bin\Debug\ParImparPG24.exe.config
+H:\LogP\PrimeiraEtapa\ParImparPG24\ParImparPG24\bin\Debug\ParImparPG24.exe
+H:\LogP\PrimeiraEtapa\ParImparPG24\ParImparPG24\bin\Debug\ParImparPG24.pdb
+H:\LogP\PrimeiraEtapa\ParImparPG24\ParImparPG24\obj\Debug\ParImparPG24.csproj.AssemblyReference.cache
+H:\LogP\PrimeiraEtapa\ParImparPG24\ParImparPG24\obj\Debug\ParImparPG24.csproj.SuggestedBindingRedirects.cache
+H:\LogP\PrimeiraEtapa\ParImparPG24\ParImparPG24\obj\Debug\ParImparPG24.Form1.resources
+H:\LogP\PrimeiraEtapa\ParImparPG24\ParImparPG24\obj\Debug\ParImparPG24.Properties.Resources.resources
+H:\LogP\PrimeiraEtapa\ParImparPG24\ParImparPG24\obj\Debug\ParImparPG24.csproj.GenerateResource.cache
+H:\LogP\PrimeiraEtapa\ParImparPG24\ParImparPG24\obj\Debug\ParImparPG24.csproj.CoreCompileInputs.cache
+H:\LogP\PrimeiraEtapa\ParImparPG24\ParImparPG24\obj\Debug\ParImparPG24.exe
+H:\LogP\PrimeiraEtapa\ParImparPG24\ParImparPG24\obj\Debug\ParImparPG24.pdb

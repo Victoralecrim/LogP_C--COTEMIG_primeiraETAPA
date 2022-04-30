@@ -1,0 +1,11 @@
+H:\LogP\PrimeiraEtapa\EX17Pag09\EX17Pag09\bin\Debug\EX17Pag09.exe.config
+H:\LogP\PrimeiraEtapa\EX17Pag09\EX17Pag09\bin\Debug\EX17Pag09.exe
+H:\LogP\PrimeiraEtapa\EX17Pag09\EX17Pag09\bin\Debug\EX17Pag09.pdb
+H:\LogP\PrimeiraEtapa\EX17Pag09\EX17Pag09\obj\Debug\EX17Pag09.csproj.AssemblyReference.cache
+H:\LogP\PrimeiraEtapa\EX17Pag09\EX17Pag09\obj\Debug\EX17Pag09.csproj.SuggestedBindingRedirects.cache
+H:\LogP\PrimeiraEtapa\EX17Pag09\EX17Pag09\obj\Debug\EX17Pag09.Form1.resources
+H:\LogP\PrimeiraEtapa\EX17Pag09\EX17Pag09\obj\Debug\EX17Pag09.Properties.Resources.resources
+H:\LogP\PrimeiraEtapa\EX17Pag09\EX17Pag09\obj\Debug\EX17Pag09.csproj.GenerateResource.cache
+H:\LogP\PrimeiraEtapa\EX17Pag09\EX17Pag09\obj\Debug\EX17Pag09.csproj.CoreCompileInputs.cache
+H:\LogP\PrimeiraEtapa\EX17Pag09\EX17Pag09\obj\Debug\EX17Pag09.exe
+H:\LogP\PrimeiraEtapa\EX17Pag09\EX17Pag09\obj\Debug\EX17Pag09.pdb

@@ -1,0 +1,11 @@
+H:\Visual Studio 2022\Projects\SALARIO\SALARIO\bin\Debug\SALARIO.exe.config
+H:\Visual Studio 2022\Projects\SALARIO\SALARIO\bin\Debug\SALARIO.exe
+H:\Visual Studio 2022\Projects\SALARIO\SALARIO\bin\Debug\SALARIO.pdb
+H:\Visual Studio 2022\Projects\SALARIO\SALARIO\obj\Debug\SALARIO.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\SALARIO\SALARIO\obj\Debug\SALARIO.csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio 2022\Projects\SALARIO\SALARIO\obj\Debug\SALARIO.Form1.resources
+H:\Visual Studio 2022\Projects\SALARIO\SALARIO\obj\Debug\SALARIO.Properties.Resources.resources
+H:\Visual Studio 2022\Projects\SALARIO\SALARIO\obj\Debug\SALARIO.csproj.GenerateResource.cache
+H:\Visual Studio 2022\Projects\SALARIO\SALARIO\obj\Debug\SALARIO.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\SALARIO\SALARIO\obj\Debug\SALARIO.exe
+H:\Visual Studio 2022\Projects\SALARIO\SALARIO\obj\Debug\SALARIO.pdb
